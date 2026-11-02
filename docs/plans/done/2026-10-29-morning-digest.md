@@ -1,6 +1,6 @@
 ---
 plan: morning-digest
-status: ready
+status: done
 owner: rook
 opened: 2026-10-29
 ---
@@ -77,3 +77,13 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- #1: https://github.com/zeta5461/rig-handover/issues/1
+- #2: https://github.com/zeta5461/rig-handover/issues/2
+- #3: https://github.com/zeta5461/rig-handover/issues/3
+- #4: https://github.com/zeta5461/rig-handover/issues/4
+- #5: https://github.com/zeta5461/rig-handover/issues/5
+- #6: https://github.com/zeta5461/rig-handover/issues/6
+- #7: https://github.com/zeta5461/rig-handover/issues/7
